@@ -1,7 +1,7 @@
 {
     "name": "VCVideoPlayBot",
     "description": "Telegram bot to stream video in telegram VC",
-    "repository": "https://github.com/ZauteKm/VCVideoPlayBot",
+    "repository": "https://github.com/thashaboom/VCPlayerBot",
     "stack": "container",
     "keywords": [
       "telegram",
